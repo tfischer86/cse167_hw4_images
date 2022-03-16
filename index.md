@@ -18,3 +18,4 @@ Other images:
 
 ![cornell box](images/cornell.png)
 
+![scene5 path](images/scene5-path.png)
